@@ -6,6 +6,8 @@ import BasicCounter from './components/BasicCounter'
 import ToggleVisibility from './components/ToggleVisibility'
 import FormInput from './components/FormInput'
 import MultipleStates from './components/MultipleStates'
+import ArrayItems from './components/ArrayItems'
+import BooleanState from './components/BooleanState'
 
 function App() {
 
@@ -13,7 +15,9 @@ function App() {
     // <BasicCounter/>
     // <ToggleVisibility/>
     // <FormInput/>
-    <MultipleStates/>
+    // <MultipleStates/>
+    // <ArrayItems/>
+    <BooleanState/>
   )
 }
 
