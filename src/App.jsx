@@ -5,13 +5,15 @@ import './App.css'
 import BasicCounter from './components/BasicCounter'
 import ToggleVisibility from './components/ToggleVisibility'
 import FormInput from './components/FormInput'
+import MultipleStates from './components/MultipleStates'
 
 function App() {
 
   return (
     // <BasicCounter/>
     // <ToggleVisibility/>
-    <FormInput/>
+    // <FormInput/>
+    <MultipleStates/>
   )
 }
 
