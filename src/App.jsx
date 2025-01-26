@@ -4,12 +4,14 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import BasicCounter from './components/BasicCounter'
 import ToggleVisibility from './components/ToggleVisibility'
+import FormInput from './components/FormInput'
 
 function App() {
 
   return (
     // <BasicCounter/>
-    <ToggleVisibility/>
+    // <ToggleVisibility/>
+    <FormInput/>
   )
 }
 
